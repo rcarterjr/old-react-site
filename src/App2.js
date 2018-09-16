@@ -31,7 +31,7 @@ export default class ContentComponent extends Component {
                     <h1 className="App-title" class="text"> Hello, I'm Russell!</h1>
                 </div>
                 <div>
-                    <h2 class="text">I'm a Computer Science senior at Towson University</h2>
+                    <h2 class="text">Software Developer | Computer Science student | Dog owner </h2>
                 </div>
                 </div>
                 <div style={{display: 'flex', justifyContent: 'space-around', width: '60vw',  paddingTop: 16}}>
