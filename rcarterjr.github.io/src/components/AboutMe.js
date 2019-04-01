@@ -14,7 +14,6 @@ export default class AboutMeComponent extends Component {
 					className={"text"}
 					style={{ fontSize: "20px", marginLeft: "10%", marginRight: "10%" }}
 				>
-					{" "}
 					I am a senior at Towson University studying computer science. I am
 					very passionate for programming, and enjoy working in web development
 					specifically. I created this website using React and Bootstrap. If you
